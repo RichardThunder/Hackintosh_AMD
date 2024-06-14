@@ -38,6 +38,16 @@
 			<string>AppleUSBXHCIPCI</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
+				<key>kUSBSleepPortCurrentLimit</key>
+				<integer>2100</integer>
+				<key>kUSBSleepPowerSupply</key>
+				<integer>5100</integer>
+				<key>kUSBWakePortCurrentLimit</key>
+				<integer>2100</integer>
+				<key>kUSBWakePowerSupply</key>
+				<integer>5100</integer>
+				<key>port-count</key>
+				<data>FgAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>HS01</key>
@@ -52,26 +62,40 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>FAAAAA==</data>
+						<data>DQAAAA==</data>
 					</dict>
 					<key>HS03</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>FQAAAA==</data>
+						<data>DgAAAA==</data>
 					</dict>
 					<key>HS04</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
+						<key>port</key>
+						<data>FAAAAA==</data>
+					</dict>
+					<key>HS05</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>FQAAAA==</data>
+					</dict>
+					<key>HS06</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
 						<key>port</key>
 						<data>FgAAAA==</data>
 					</dict>
 					<key>SS01</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>port</key>
 						<data>AQAAAA==</data>
 					</dict>
@@ -99,21 +123,11 @@
 					<key>SS05</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>port</key>
 						<data>BgAAAA==</data>
 					</dict>
 				</dict>
-				<key>port-count</key>
-				<data>FgAAAA==</data>
-				<key>kUSBSleepPortCurrentLimit</key>
-				<integer>2100</integer>
-				<key>kUSBSleepPowerSupply</key>
-				<integer>5100</integer>
-				<key>kUSBWakePortCurrentLimit</key>
-				<integer>2100</integer>
-				<key>kUSBWakePowerSupply</key>
-				<integer>5100</integer>
 			</dict>
 			<key>model</key>
 			<string>MacPro7,1</string>
@@ -134,8 +148,32 @@
 			<string>AppleUSBXHCIPCI</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
+				<key>kUSBSleepPortCurrentLimit</key>
+				<integer>2100</integer>
+				<key>kUSBSleepPowerSupply</key>
+				<integer>5100</integer>
+				<key>kUSBWakePortCurrentLimit</key>
+				<integer>2100</integer>
+				<key>kUSBWakePowerSupply</key>
+				<integer>5100</integer>
+				<key>port-count</key>
+				<data>BgAAAA==</data>
 				<key>ports</key>
 				<dict>
+					<key>HS01</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>AQAAAA==</data>
+					</dict>
+					<key>HS02</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>AgAAAA==</data>
+					</dict>
 					<key>SS01</key>
 					<dict>
 						<key>UsbConnector</key>
@@ -150,31 +188,7 @@
 						<key>port</key>
 						<data>BgAAAA==</data>
 					</dict>
-					<key>SS03</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>port</key>
-						<data>BwAAAA==</data>
-					</dict>
-					<key>SS04</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>port</key>
-						<data>CAAAAA==</data>
-					</dict>
 				</dict>
-				<key>port-count</key>
-				<data>CAAAAA==</data>
-				<key>kUSBSleepPortCurrentLimit</key>
-				<integer>2100</integer>
-				<key>kUSBSleepPowerSupply</key>
-				<integer>5100</integer>
-				<key>kUSBWakePortCurrentLimit</key>
-				<integer>2100</integer>
-				<key>kUSBWakePowerSupply</key>
-				<integer>5100</integer>
 			</dict>
 			<key>model</key>
 			<string>MacPro7,1</string>
