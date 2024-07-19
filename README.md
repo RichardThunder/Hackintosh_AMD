@@ -2,7 +2,7 @@
  * @Author: richardthunder yuetingpei888@gmail.com
  * @Date: 2024-06-13 16:29:53
  * @LastEditors: richardthunder yuetingpei888@gmail.com
- * @LastEditTime: 2024-06-13 16:46:17
+ * @LastEditTime: 2024-07-19 15:07:47
  * @FilePath: /Hackintosh_AMD/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -43,3 +43,8 @@ Hackintosh_AMD
 - handoff not work
 - airdrop not work
 
+## UPDATE
+添加了 对I211板载网卡的支持 来源 https://github.com/donatengit/AppleIGB/issues/19#issuecomment-2227514964
+下载链接  https://github.com/user-attachments/files/16229077/AppleIGB-RELEASE.kext.zip
+
+降级到macos 13 ventura
