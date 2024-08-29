@@ -11,7 +11,7 @@
 - Ryzen r5 5600
 - 华擎x370 gaming k4
 - 显卡 RX6700XT
-- 有线网卡 intel I211(无法连接)
+- 有线网卡 intel I211 ~~(无法连接)~~
 - 无线网卡 intel 8265AC
 - 硬盘 WD SN720 1TB SSD
 
