@@ -17,7 +17,7 @@
 - 硬盘 WD SN720 1TB SSD
 
 ## 系统版本
-macos 14.5 Sonoma
+macos 13.7 Ventura
 
 ## 存在问题
 - ~~有线网卡 i211 不工作 使用外接usb网卡替代)~~
