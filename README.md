@@ -37,7 +37,7 @@ Hackintosh_AMD
 - Intel 8265AC wireless
 - WD SN720 1TB SSD
 ## System
-  macos 14.5 Sonoma
+  macos 13.7 Ventura
 
 ## Problem existing
 - I211 not work(use external network interface card)
